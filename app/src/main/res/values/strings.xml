@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Aula03</string>
+    <string name="app_name">Hungy4Pizza</string>
+    <string name="txt_login">Login</string>
+    <string name="hint_login">Enter your login</string>
+    <string name="txt_senha">Password</string>
+    <string name="hint_senha">Enter your password</string>
+    <string name="botao_login">Sign in</string>
 </resources>
